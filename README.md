@@ -18,19 +18,23 @@ https://ecommerce-app-fullstack-sn9o.onrender.com
 
 ## 🏠 Home Page
 
-![Home Page](./assets/home-page.png)
+<img width="1841" height="800" alt="image" src="https://github.com/user-attachments/assets/8a363782-9bd2-4aab-9a8c-58b6b02a9778" />
+
 
 ## 📦 Product Details
 
-![Product Details](./assets/product-page.png)
+<img width="1810" height="852" alt="image" src="https://github.com/user-attachments/assets/b939b469-f014-4a1a-9f51-8cd20c469156" />
+
 
 ## 👤 User Dashboard
 
-![User Dashboard](./assets/dashboard.png)
+<img width="1855" height="817" alt="image" src="https://github.com/user-attachments/assets/720d8257-46aa-4ab3-91a3-6e999b066cb1" />
+
 
 ## 🛠️ Admin Dashboard
 
-![Admin Dashboard](./assets/admin-dashboard.png)
+<img width="1847" height="892" alt="image" src="https://github.com/user-attachments/assets/68546681-cf0c-4e61-9156-898461cf9ccf" />
+
 
 ---
 
