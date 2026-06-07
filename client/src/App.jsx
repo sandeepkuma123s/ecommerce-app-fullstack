@@ -29,15 +29,14 @@ function App() {
             <Route path="/dashboard" element={<UserDashboard />} />
             <Route path="/product/:id" element={<ProductDetails />} />
 
-            <Route
-              path="/admin"
-              element={
-                <ProtectedAdminRoute>
-                  <AdminDashboard />
-                </ProtectedAdminRoute>
-                
-              }
-            />
+           <Route
+  path="/admin"
+  element={
+    <ProtectedAdminRoute>
+      <AdminDashboard />
+    </ProtectedAdminRoute>
+  }
+/>
             <Route path="/order-success" element={<OrderSuccess />} />
           </Routes>
         </BrowserRouter>
